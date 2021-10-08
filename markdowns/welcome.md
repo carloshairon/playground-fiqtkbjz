@@ -193,7 +193,8 @@ class Saudacao {
       self.nome = nome
     }
 }
-var s = Saudacao(nome:"Hairon") // print("Bem Vindo \(novoNome)")
-s.nome = "Maria" // print("Até Logo \(oldValue)") 
+var s = Saudacao(nome:"Hairon") 
+
+s.nome = "Maria" // print("Bem Vindo \(novoNome)"); print("Até Logo \(oldValue)") 
 ```
 
