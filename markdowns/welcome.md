@@ -3,8 +3,7 @@
  - Uma constante (let) ou variável (var) que é parte de um instância de classe ou struct
  - Tipo mais simples, sendo possível atribuir um valor default
 
-==> Crie uma classe conforme a figura (https://www.dropbox.com/s/2lruwehx887jptd/classe.png?dl=0
-) e exponha uma situação em que uma propriedade tem um valor default em tempo de execução. 
+==> Crie uma classe e objetos conforme a figura (https://www.dropbox.com/s/1gn0mljjlo5rn7i/classe.png?dl=0) e exponha uma situação em que uma propriedade tem um valor default em tempo de execução. 
 
 ```swift runnable
 class FixedLengthRange {
