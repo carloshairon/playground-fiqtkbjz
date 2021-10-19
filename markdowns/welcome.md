@@ -27,7 +27,7 @@ var rangeOfThree = FixedLengthRange(firstValue: 0, length: 3)
  * Usada quando existe uma inicialização custosa ou complexa
  * A palavra-chave (palavra-reservada) é `lazy`
 
- ==> Veja o exemploa abaixo. Você consegue pensanr em uma situação custosa computacionamente? Veja esse artigo: 
+ ==> Veja o exemploa abaixo. Você consegue pensar em uma situação custosa computacionamente? Veja esse artigo: 
  
  Inglês: https://www.hackingwithswift.com/example-code/language/what-are-lazy-variables 
 
